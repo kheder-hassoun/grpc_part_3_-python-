@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DZ8HHH7JrDtiu8aMC+kzCjYlYoeerazFFtGWYwKB2io=",
+  "Source": "GrpcMultiplyService",
+  "BasePath": "_content/GrpcMultiplyService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

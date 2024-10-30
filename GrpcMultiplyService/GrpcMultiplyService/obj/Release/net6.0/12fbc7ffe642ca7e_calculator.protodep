@@ -1,0 +1,2 @@
+obj\Release\net6.0\Protos/Calculator.cs \
+obj\Release\net6.0\Protos/CalculatorGrpc.cs: Protos/calculator.proto
