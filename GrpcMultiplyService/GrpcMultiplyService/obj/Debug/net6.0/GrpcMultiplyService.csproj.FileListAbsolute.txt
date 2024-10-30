@@ -13,6 +13,7 @@ D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\Gr
 D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\bin\Debug\net6.0\Grpc.Net.Client.dll
 D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
 D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\obj\Debug\net6.0\GrpcMultiplyService.csproj.AssemblyReference.cache
 D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\obj\Debug\net6.0\GrpcMultiplyService.GeneratedMSBuildEditorConfig.editorconfig
 D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\obj\Debug\net6.0\GrpcMultiplyService.AssemblyInfoInputs.cache
 D:\4 and 5\five\Ds\labs\lab4_grpc_3_langs\grpc_part_3_Net\GrpcMultiplyService\GrpcMultiplyService\obj\Debug\net6.0\GrpcMultiplyService.AssemblyInfo.cs

@@ -1,9 +1,10 @@
 ﻿syntax = "proto3";
-//package calculator;
+package calculator;
 option csharp_namespace = "GrpcMultiplyService.Services";
 service CalculatorService {
   rpc Add (TwoNumbers) returns (CalculationResult);
   rpc Multiply (TwoNumbers) returns (CalculationResult);
+   rpc GetHistory (HistoryRequest) returns (stream HistoryEntry); // New streaming RPC
 }
 
 message TwoNumbers {
@@ -13,4 +14,15 @@ message TwoNumbers {
 
 message CalculationResult {
   int32 result = 1;
+}
+
+message HistoryRequest {
+  string filter = 1; // optional filter, "add" or "multiply"
+}
+
+message HistoryEntry {
+  string operation = 1; // "add" or "multiply"
+  int32 num1 = 2;
+  int32 num2 = 3;
+  int32 result = 4;
 }

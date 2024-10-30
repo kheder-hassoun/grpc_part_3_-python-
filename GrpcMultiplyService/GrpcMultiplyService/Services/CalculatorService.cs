@@ -10,6 +10,8 @@ namespace GrpcMultiplyService.Services
         {
             int result = request.Num1 * request.Num2;
 
+
+
             return Task.FromResult(new CalculationResult { Result = result });
         }
     }
